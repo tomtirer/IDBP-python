@@ -1,0 +1,24 @@
+21-07-04 23:17:44.342 : model_name:ircnn_gray
+21-07-04 23:17:44.343 : Model path: denoisers_folder/model_zoo/ircnn_gray.pth
+21-07-04 23:17:44.343 : testsets/set5
+21-07-04 23:17:44.343 : -------k: 1 ---------
+21-07-04 23:17:53.363 : ---1--> baby_GT.bmp -- Scenario 1, ISNR (PSNR-InputPSNR): 1.96dB, PSNR: 38.72dB
+21-07-04 23:17:55.200 : ---2--> bird_GT.bmp -- Scenario 1, ISNR (PSNR-InputPSNR): 5.77dB, PSNR: 42.15dB
+21-07-04 23:17:56.903 : ---3--> butterfly_GT.bmp -- Scenario 1, ISNR (PSNR-InputPSNR): 7.04dB, PSNR: 34.13dB
+21-07-04 23:17:58.661 : ---4--> head_GT.bmp -- Scenario 1, ISNR (PSNR-InputPSNR): 1.19dB, PSNR: 35.82dB
+21-07-04 23:18:00.381 : ---5--> woman_GT.bmp -- Scenario 1, ISNR (PSNR-InputPSNR): 4.04dB, PSNR: 35.90dB
+21-07-04 23:18:00.381 : ------> Average PSNR results for set: (set5), Scenario: (1), sigma: (0.00), ISNR(PSNR-InputPSNR): 4.00dB, PSNR: 37.35 dB
+21-07-04 23:18:00.381 : -------k: 2 ---------
+21-07-04 23:18:23.965 : ---1--> baby_GT.bmp -- Scenario 2, ISNR (PSNR-InputPSNR): 3.27dB, PSNR: 35.39dB
+21-07-04 23:18:30.899 : ---2--> bird_GT.bmp -- Scenario 2, ISNR (PSNR-InputPSNR): 3.58dB, PSNR: 36.42dB
+21-07-04 23:18:36.942 : ---3--> butterfly_GT.bmp -- Scenario 2, ISNR (PSNR-InputPSNR): 8.74dB, PSNR: 29.47dB
+21-07-04 23:18:43.677 : ---4--> head_GT.bmp -- Scenario 2, ISNR (PSNR-InputPSNR): 4.53dB, PSNR: 33.88dB
+21-07-04 23:18:50.336 : ---5--> woman_GT.bmp -- Scenario 2, ISNR (PSNR-InputPSNR): 3.57dB, PSNR: 32.00dB
+21-07-04 23:18:50.336 : ------> Average PSNR results for set: (set5), Scenario: (2), sigma: (0.00), ISNR(PSNR-InputPSNR): 4.74dB, PSNR: 33.43 dB
+21-07-04 23:18:50.336 : -------k: 3 ---------
+21-07-04 23:19:32.006 : ---1--> baby_GT.bmp -- Scenario 3, ISNR (PSNR-InputPSNR): 4.14dB, PSNR: 35.43dB
+21-07-04 23:19:43.723 : ---2--> bird_GT.bmp -- Scenario 3, ISNR (PSNR-InputPSNR): 5.67dB, PSNR: 36.49dB
+21-07-04 23:19:54.474 : ---3--> butterfly_GT.bmp -- Scenario 3, ISNR (PSNR-InputPSNR): 9.00dB, PSNR: 29.49dB
+21-07-04 23:20:05.906 : ---4--> head_GT.bmp -- Scenario 3, ISNR (PSNR-InputPSNR): 4.44dB, PSNR: 33.89dB
+21-07-04 23:20:16.900 : ---5--> woman_GT.bmp -- Scenario 3, ISNR (PSNR-InputPSNR): 5.06dB, PSNR: 31.98dB
+21-07-04 23:20:16.900 : ------> Average PSNR results for set: (set5), Scenario: (3), sigma: (0.00), ISNR(PSNR-InputPSNR): 5.66dB, PSNR: 33.46 dB
